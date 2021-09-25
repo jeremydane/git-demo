@@ -1,3 +1,3 @@
 # git-demo
-Using git
+Using git.
 This is my Read me file.
